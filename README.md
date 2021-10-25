@@ -2,8 +2,8 @@
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=C,CPP)](https://github.com/IamYJlee)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=C,CPP,Objective-C,Swift,Jenkins,Git,GitHub&theme=dark)](https://github.com/kijepark)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=C,CPP,Objective-C,Swift,Jenkins,Git,GitHub&theme=dark)](https://github.com/kijepark)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=C,CPP,LLVM,Objective-C,Swift&theme=dark)](https://github.com/IamYJlee)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=%DevOps&badges=Jenkins,Git,GitHub,GitLab,JIRA,Confluence&theme=dark)](https://github.com/IamYJlee)
 
 <!-- [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=adserver-tutorial)](https://github.com/kijepark/adserver-tutorial) -->
 <!-- [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=one-page-template)](https://github.com/kijepark/one-page-template) -->

@@ -7,10 +7,4 @@
 ![](https://github-readme-stats-tau-seven-75.vercel.app/api/pin?username=IamYJLee&repo=llvm-project&theme=gotham)  
 ![](https://github-readme-stats-tau-seven-75.vercel.app/api/pin?username=IamYJLee&repo=alive2&theme=gotham)  
 
-<a href="https://www.linkedin.com/in/youngjun-lee-9414025a/" target="_blank" rel="noopener">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-  </picture>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fyoungjun--lee--9414025a-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/youngjun-lee-9414025a/)  

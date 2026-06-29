@@ -9,6 +9,15 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
+- Opened a pull request in the [llvm/llvm-project](https://github.com/llvm/llvm-project/pull/205965) repository titled "[clang][serialization] Fix crash on imported pack indexing type," addressing a crash during deserialization of `PackIndexingType` due to an uninitialized selected index. A test case and release note were added following the review.
+  
+- Closed a related pull request in the [llvm/llvm-project](https://github.com/llvm/llvm-project/pull/205964) repository, which also aimed to fix the same crash issue, indicating ongoing efforts to resolve this problem.
+
+- Created an issue in the [llvm/llvm-project](https://github.com/llvm/llvm-project/issues/204479) repository titled "[clang] Crash when using exported entity defined with pack indexing," detailing a crash scenario when using specific template constructs in Clang.
+
+- Merged a pull request in the [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs/pull/19) repository to add CODEOWNERS for the fusa-qual-wg, designating @uwendi as the code owner for the relevant directory.
+
+- Labeled a pull request in the [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs/pull/32) repository that adds meeting agendas and minutes for the LLVM Qualification Working Group, which includes extensive documentation updates and archiving of meeting materials.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

@@ -20,14 +20,14 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#37](https://github.com/llvm/llvm-wgs/pull/37) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-2. 💪 Opened PR [#37](https://github.com/llvm/llvm-wgs/pull/37) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-3. 🗣 Commented on [#1325](https://github.com/AliveToolkit/alive2/issues/1325#issuecomment-4911956228) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
-4. 🗣 Commented on [#1325](https://github.com/AliveToolkit/alive2/issues/1325#issuecomment-4911787263) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
-5. 🗣 Commented on [#1325](https://github.com/AliveToolkit/alive2/issues/1325#issuecomment-4888716636) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
-6. 🔒 Closed issue [#204479](https://github.com/llvm/llvm-project/issues/204479) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-7. 🎉 Merged PR [#205965](https://github.com/llvm/llvm-project/pull/205965) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-8. 🗣 Commented on [#205965](https://github.com/llvm/llvm-project/pull/205965#issuecomment-4862432993) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-9. 🗣 Commented on [#205965](https://github.com/llvm/llvm-project/pull/205965#issuecomment-4849338706) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-10. 🗣 Commented on [#205965](https://github.com/llvm/llvm-project/pull/205965#issuecomment-4849327274) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+1. ℹ️ Assigned issue [#210277](https://github.com/llvm/llvm-project/issues/210277) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+2. 🗣 Commented on [#209382](https://github.com/llvm/llvm-project/pull/209382#issuecomment-4976980518) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+3. ℹ️ Labeled PR [#37](https://github.com/llvm/llvm-wgs/pull/37) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+4. 💪 Opened PR [#37](https://github.com/llvm/llvm-wgs/pull/37) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+5. 🗣 Commented on [#1325](https://github.com/AliveToolkit/alive2/issues/1325#issuecomment-4911956228) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+6. 🗣 Commented on [#1325](https://github.com/AliveToolkit/alive2/issues/1325#issuecomment-4911787263) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+7. 🗣 Commented on [#1325](https://github.com/AliveToolkit/alive2/issues/1325#issuecomment-4888716636) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+8. 🔒 Closed issue [#204479](https://github.com/llvm/llvm-project/issues/204479) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+9. 🎉 Merged PR [#205965](https://github.com/llvm/llvm-project/pull/205965) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+10. 🗣 Commented on [#205965](https://github.com/llvm/llvm-project/pull/205965#issuecomment-4862432993) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
 <!--END_SECTION:activity-->

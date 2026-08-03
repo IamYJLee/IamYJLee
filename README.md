@@ -9,13 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
-- Merged pull request [#37](https://github.com/llvm/llvm-wgs/pull/37) in the `llvm/llvm-wgs` repository, which expanded the `fusa-qual-wg/README.md` from a placeholder into an initial onboarding guide for the LLVM Qualification Working Group. This guide provides newcomers with essential information about the group's purpose, target audience, and current activities, while leaving some sections as `TODO` for future updates.
-
-- Assigned to issue [#210277](https://github.com/llvm/llvm-project/issues/210277) in the `llvm/llvm-project` repository, which discusses an improvement for the `bugprone-unchecked-optional-access` warning in `clang-tidy`. The issue highlights a scenario where the warning is triggered incorrectly, complicating the use of `std::optional` in test suites.
-
-- Commented on issue [#209382](https://github.com/llvm/llvm-project/pull/209382) in the `llvm/llvm-project` repository, which involves documenting the LLVM Qualification Working Group artifacts and meeting archive. The comment expressed agreement with the proposed changes.
-
-- Created a comment on issue [#1325](https://github.com/AliveToolkit/alive2/issues/1325) in the `AliveToolkit/alive2` repository, detailing a crash in `alive-exec` due to an assertion failure when executing a valid LLVM IR program. The comment included a minimal reproducer for the issue, indicating an intention to work on a fix.
+- Commented on issue #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
+- Merged PR #37 in `llvm/llvm-wgs`: [fusa-qual-wg] Draft onboarding/tutorial guide in README.
+- Opened or updated issue #210277 in `llvm/llvm-project`: [clang-tidy] Improvement for bugprone-unchecked-optional-access.
+- Commented on issue #209382 in `llvm/llvm-project`: [Docs] Document Qualification WG artifacts and meeting archive.
+- Reviewed PR #37 in `llvm/llvm-wgs`: [fusa-qual-wg] Draft onboarding/tutorial guide in README.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

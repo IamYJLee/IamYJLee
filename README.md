@@ -9,11 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
+- Commented on issue #213857 in `llvm/llvm-project`: [InstCombine] LLVM ERROR: Instruction Combining did not reach a fixpoint after 1 iterations.
+- Opened or updated PR #179170 in `llvm/llvm-project`: [MLIR][Linalg] Fix crash when parsing linalg.elementwise with vector inputs (#178363).
 - Commented on issue #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
 - Merged PR #37 in `llvm/llvm-wgs`: [fusa-qual-wg] Draft onboarding/tutorial guide in README.
 - Opened or updated issue #210277 in `llvm/llvm-project`: [clang-tidy] Improvement for bugprone-unchecked-optional-access.
-- Commented on issue #209382 in `llvm/llvm-project`: [Docs] Document Qualification WG artifacts and meeting archive.
-- Reviewed PR #37 in `llvm/llvm-wgs`: [fusa-qual-wg] Draft onboarding/tutorial guide in README.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

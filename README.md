@@ -9,10 +9,10 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
-- Commented on issue #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
-- Opened or updated PR #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
-- Commented on issue #213857 in `llvm/llvm-project`: [InstCombine] LLVM ERROR: Instruction Combining did not reach a fixpoint after 1 iterations.
-- Opened or updated PR #179170 in `llvm/llvm-project`: [MLIR][Linalg] Fix crash when parsing linalg.elementwise with vector inputs (#178363).
+- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
+- Opened or updated PR #2 in `IamYJLee/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
+- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
+- Opened or updated PR #2 in `IamYJLee/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
 - Commented on issue #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
 <!--END_SECTION:activity_summary-->
 

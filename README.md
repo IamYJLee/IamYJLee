@@ -9,11 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
-- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
-- Opened or updated PR #2 in `IamYJLee/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
-- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
-- Opened or updated PR #2 in `IamYJLee/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
+- Commented on issue #47 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-006 / safety considerations template.
 - Commented on issue #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
+- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
+- Opened or updated PR #2 in `IamYJLee/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
+- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

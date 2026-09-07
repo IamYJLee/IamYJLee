@@ -18,14 +18,14 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1341](https://github.com/AliveToolkit/alive2/pull/1341) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
-2. ❌ Closed PR [#2](https://github.com/IamYJLee/alive2/pull/2) in [IamYJLee/alive2](https://github.com/IamYJLee/alive2)
-3. 💪 Opened PR [#1341](https://github.com/AliveToolkit/alive2/pull/1341) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
-4. 💪 Opened PR [#2](https://github.com/IamYJLee/alive2/pull/2) in [IamYJLee/alive2](https://github.com/IamYJLee/alive2)
-5. 🗣 Commented on [#46](https://github.com/llvm/llvm-wgs/pull/46#issuecomment-5251384534) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-6. ℹ️ Assigned PR [#46](https://github.com/llvm/llvm-wgs/pull/46) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-7. 🗣 Commented on [#213857](https://github.com/llvm/llvm-project/issues/213857#issuecomment-5185792981) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-8. ❌ Closed PR [#179170](https://github.com/llvm/llvm-project/pull/179170) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+1. 🗣 Commented on [#47](https://github.com/llvm/llvm-wgs/pull/47#issuecomment-5503377238) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+2. 🗣 Commented on [#46](https://github.com/llvm/llvm-wgs/pull/46#issuecomment-5489373067) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+3. 🎉 Merged PR [#1341](https://github.com/AliveToolkit/alive2/pull/1341) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+4. ❌ Closed PR [#2](https://github.com/IamYJLee/alive2/pull/2) in [IamYJLee/alive2](https://github.com/IamYJLee/alive2)
+5. 💪 Opened PR [#1341](https://github.com/AliveToolkit/alive2/pull/1341) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+6. 💪 Opened PR [#2](https://github.com/IamYJLee/alive2/pull/2) in [IamYJLee/alive2](https://github.com/IamYJLee/alive2)
+7. 🗣 Commented on [#46](https://github.com/llvm/llvm-wgs/pull/46#issuecomment-5251384534) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+8. ℹ️ Assigned PR [#46](https://github.com/llvm/llvm-wgs/pull/46) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
 9. 🗣 Commented on [#46](https://github.com/llvm/llvm-wgs/pull/46#issuecomment-5161006426) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
 10. 🎉 Merged PR [#205965](https://github.com/llvm/llvm-project/pull/205965) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
 <!--END_SECTION:activity-->

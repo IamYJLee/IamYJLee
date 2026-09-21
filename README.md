@@ -9,11 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
+- Commented on issue #48 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-002 / tool usage plan template.
+- Reviewed PR #48 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-002 / tool usage plan template.
+- Commented on issue #224904 in `llvm/llvm-project`: [docs] Update Qualification WG working processes.
+- Commented on issue #79 in `llvm/llvm-wgs`: [fusa-qual-wg] Expand working group overview.
 - Commented on issue #47 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-006 / safety considerations template.
-- Commented on issue #46 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-001 / need of tool confidence template.
-- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
-- Opened or updated PR #2 in `IamYJLee/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
-- Merged PR #1341 in `AliveToolkit/alive2`: Move `PassInfoMixin` to the `llvm::detail` namespace.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

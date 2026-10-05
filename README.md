@@ -9,11 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
+- Reviewed PR #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
+- Reviewed PR #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
+- Reviewed PR #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
+- Reviewed PR #103 in `llvm/llvm-wgs`: First version of our Safety Model ( based on the table version discussed during our monthly meetings).
 - Commented on issue #48 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-002 / tool usage plan template.
-- Reviewed PR #48 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-002 / tool usage plan template.
-- Commented on issue #224904 in `llvm/llvm-project`: [docs] Update Qualification WG working processes.
-- Commented on issue #79 in `llvm/llvm-wgs`: [fusa-qual-wg] Expand working group overview.
-- Commented on issue #47 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-006 / safety considerations template.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

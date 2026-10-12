@@ -9,11 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
-- Reviewed PR #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
-- Reviewed PR #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
-- Reviewed PR #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
-- Reviewed PR #103 in `llvm/llvm-wgs`: First version of our Safety Model ( based on the table version discussed during our monthly meetings).
-- Commented on issue #48 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-002 / tool usage plan template.
+- Opened or updated issue #1368 in `openai/tart`: "Tap Trust" issue.
+- Reviewed PR #106 in `llvm/llvm-wgs`: [fusa-qual-wg] Document the LLVM quality and development-process assessment workstreams.
+- Reviewed PR #106 in `llvm/llvm-wgs`: [fusa-qual-wg] Document the LLVM quality and development-process assessment workstreams.
+- Commented on issue #57 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-003 / tool classification report template.
+- Commented on issue #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity

@@ -18,12 +18,12 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/llvm/llvm-wgs/pull/48#issuecomment-5754321911) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-2. 🗣 Commented on [#224904](https://github.com/llvm/llvm-project/pull/224904#issuecomment-5754299983) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-3. 🗣 Commented on [#79](https://github.com/llvm/llvm-wgs/pull/79#issuecomment-5754280839) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-4. 🗣 Commented on [#47](https://github.com/llvm/llvm-wgs/pull/47#issuecomment-5503377238) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-5. 🗣 Commented on [#46](https://github.com/llvm/llvm-wgs/pull/46#issuecomment-5489373067) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
-6. 🎉 Merged PR [#1341](https://github.com/AliveToolkit/alive2/pull/1341) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+1. ❗ Opened issue [#1368](https://github.com/openai/tart/issues/1368) in [openai/tart](https://github.com/openai/tart)
+2. 🗣 Commented on [#57](https://github.com/llvm/llvm-wgs/pull/57#issuecomment-6033145055) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+3. 🗣 Commented on [#105](https://github.com/llvm/llvm-wgs/pull/105#issuecomment-6033068916) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+4. 🗣 Commented on [#48](https://github.com/llvm/llvm-wgs/pull/48#issuecomment-5754321911) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
+5. 🗣 Commented on [#224904](https://github.com/llvm/llvm-project/pull/224904#issuecomment-5754299983) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+6. 🗣 Commented on [#79](https://github.com/llvm/llvm-wgs/pull/79#issuecomment-5754280839) in [llvm/llvm-wgs](https://github.com/llvm/llvm-wgs)
 7. ❌ Closed PR [#2](https://github.com/IamYJLee/alive2/pull/2) in [IamYJLee/alive2](https://github.com/IamYJLee/alive2)
 8. 💪 Opened PR [#1341](https://github.com/AliveToolkit/alive2/pull/1341) in [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
 9. 💪 Opened PR [#2](https://github.com/IamYJLee/alive2/pull/2) in [IamYJLee/alive2](https://github.com/IamYJLee/alive2)

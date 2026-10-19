@@ -9,11 +9,11 @@
 
 ## Summary of Recent Activity
 <!--START_SECTION:activity_summary-->
-- Opened or updated issue #1368 in `openai/tart`: "Tap Trust" issue.
-- Reviewed PR #106 in `llvm/llvm-wgs`: [fusa-qual-wg] Document the LLVM quality and development-process assessment workstreams.
-- Reviewed PR #106 in `llvm/llvm-wgs`: [fusa-qual-wg] Document the LLVM quality and development-process assessment workstreams.
-- Commented on issue #57 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-003 / tool classification report template.
-- Commented on issue #105 in `llvm/llvm-wgs`: [fusa-qual-wg] Replace libraries README placeholder with test traceabeability PoCs.
+- Commented on issue #111 in `llvm/llvm-wgs`: [fusa-qual-wg] Add October 2026 materials, agenda, and minutes.
+- Commented on issue #213857 in `llvm/llvm-project`: [InstCombine] LLVM ERROR: Instruction Combining did not reach a fixpoint after 1 iterations.
+- Commented on issue #7914 in `utmapp/UTM`: Apple Virtualization USB Passthrough VZErrorDomain error -6..
+- Commented on issue #75 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-005 / safety manual template.
+- Reviewed PR #75 in `llvm/llvm-wgs`: [fusa-qual-wg] Add TPL-005 / safety manual template.
 <!--END_SECTION:activity_summary-->
 
 ## Recent Activity
